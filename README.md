@@ -11,18 +11,3 @@ The following mind map was created during an exploratory testing session of a de
 **Preview:**
 ![Webshop Exploration Mind Map](Exploratory-Testing/Mindmaps/webshop-exploration-mindmap.png)
 
-Manual-Exploratory-Portfolio/
-│
-├── README.md
-│
-├── Exploratory-Testing/
-│   ├── Mindmaps/
-│   │   ├── webshop-exploration-mindmap.png
-│   │   └── webshop-exploration-mindmap.pdf
-│   └── exploratory-notes.md
-│
-├── Test-Cases/
-│   └── webshop-test-cases.md
-│
-└── Test-Plans/
-    └── webshop-test-plan.md
