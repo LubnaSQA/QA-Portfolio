@@ -10,3 +10,4 @@ The following mind map was created during an exploratory testing session of a de
 
 **Preview:**
 ![Webshop Exploration Mind Map](Exploratory-Testing/Mindmaps/webshop-exploration-mindmap.png)
+
